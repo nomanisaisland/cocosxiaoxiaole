@@ -1,0 +1,47 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c252a642-612c-47a7-9a32-9c68f754b135",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "c252a642-612c-47a7-9a32-9c68f754b135@6c48a",
+      "displayName": "monsters",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "mirrored-repeat",
+        "wrapModeT": "mirrored-repeat",
+        "minfilter": "nearest",
+        "magfilter": "nearest",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c252a642-612c-47a7-9a32-9c68f754b135",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": true,
+    "type": "texture",
+    "flipVertical": false,
+    "compressSettings": {
+      "useCompressTexture": false
+    },
+    "flipGreenChannel": false,
+    "redirect": "c252a642-612c-47a7-9a32-9c68f754b135@6c48a"
+  }
+}
